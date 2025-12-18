@@ -30,3 +30,5 @@ Neural networks, trees, transformers, ... all follow these rule/loop
 
 my words:
 Training is just optimization because you adjust its weights, the parameters so that the information needed and the loss would be more accurate, and minamized.
+
+> A neuron is a computational unit that: Takes input (x values), Computes a weighted sum (Linear Regression), and applies an activation function (like sigmoid function)
