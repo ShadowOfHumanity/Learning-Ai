@@ -1,11 +1,11 @@
 # **Functions & Models**
 
 ### **A Model Is Just A Function**
-Example:
+Example: Scalar (1D) Linear Regression
 ```
 f(x) = w*x + b
 ```
-in vector form:
+in vector form: (nD) Linear Regression
 ```
 f(x) = w . x + b    (w dot x plus b)
 ```
@@ -14,5 +14,5 @@ f(x) = w . x + b    (w dot x plus b)
 
 ----
 
-###**Task**
-Write a function:
+### **Task**
+Write a function: [here](../LinnearRegressionND.py)
